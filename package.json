@@ -20,12 +20,15 @@
   "dependencies": {
     "pell": "^1.0.6"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/demonicious/svelte-pell.git"
   },
-  "keywords": [ "svelte", "pell" ],
+  "keywords": [
+    "svelte",
+    "pell"
+  ],
   "author": "Demonicious <demoncious@gmail.com>",
   "license": "ISC",
   "bugs": {
