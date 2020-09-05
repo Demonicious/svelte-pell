@@ -1,4 +1,6 @@
-# Svelte-Pell
+![Pell](https://github.com/jaredreich/pell/raw/master/images/logo.png) + ![Svelte](https://github.com/sveltejs/branding/blob/master/svelte-logo.png?raw=true)
+
+### Svelte-Pell
 An implementation of [Pell](https://github.com/jaredreich/pell) as a Svelte Component.
 
 #### 1. Installation
