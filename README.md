@@ -4,6 +4,7 @@
 An implementation of [Pell](https://github.com/jaredreich/pell) as a Svelte Component.
 
 #### 1. Installation
+From [npm](https://npmjs.com/package/svelte-pell):
 ```
 npm i -D svelte-pell
 ```
