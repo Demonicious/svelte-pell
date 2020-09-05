@@ -1,4 +1,4 @@
-![Pell](https://github.com/jaredreich/pell/raw/master/images/logo.png) + ![Svelte](https://github.com/sveltejs/branding/blob/master/svelte-logo.png?raw=true)
+![svelte-pell](https://i.imgur.com/aS1a1Sw.png)
 
 ### Svelte-Pell
 An implementation of [Pell](https://github.com/jaredreich/pell) as a Svelte Component.
