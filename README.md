@@ -1,4 +1,5 @@
-### [Pell](https://github.com/jaredreich/pell) implementation as a Svelte Component.
+# Svelte-Pell
+An implementation of [Pell](https://github.com/jaredreich/pell) as a Svelte Component.
 
 #### 1. Installation
 ```
