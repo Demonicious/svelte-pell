@@ -2,8 +2,7 @@
     import { init } from "pell/src/pell.js";
     import { createEventDispatcher } from "svelte";
 
-    export const html = '';
-
+    export let html = '';
     export let defaultParagraphSeparator = 'div';
     export let styleWithCSS              = false;
 
@@ -35,9 +34,9 @@
     const editor = (node) => {
         init({
             element: node,
-            onChange: (html) => {
-                html = html;
-                dispatch('change', {html});
+            onChange: (contents) => {
+                html = contents;
+                dispatch('change', {html: contents});
             },
             defaultParagraphSeparator,
             styleWithCSS,
