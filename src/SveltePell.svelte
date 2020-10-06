@@ -1,11 +1,9 @@
 <script>
     import { init } from "pell/src/pell.js";
     import { createEventDispatcher } from "svelte";
-
     export let html = '';
     export let defaultParagraphSeparator = 'div';
     export let styleWithCSS              = false;
-
     export let actions = [
         'bold',
         'italic',
@@ -28,9 +26,7 @@
         content: 'pell-content',
         selected: 'pell-button-selected'
     };
-
     const dispatch = createEventDispatcher();
-
     const editor = (node) => {
         init({
             element: node,
